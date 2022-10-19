@@ -25,7 +25,6 @@ class EmployeeWageComputation {
                     System.out.println("Employee is Absent:");
                     empHrs = 0;
             }
-
             totalEmpHours += empHrs;
             int empWagePerDay = empHrs * empRate;
             empWagePerMonth += empWagePerDay;
