@@ -1,5 +1,4 @@
 class EmployeeWageComputation {
-
     private static final int IS_FULL_TIME = 1;
     private static final int IS_PART_TIME = 2;
 
